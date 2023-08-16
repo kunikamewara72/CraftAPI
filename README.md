@@ -4,7 +4,7 @@
 
 This is Minecraft library for contacting the Mojang API. It features modern features of Java and flexible way of
 communicating with Mojang. Furthermore, this project is used for experimenting with Unit-Tests.
-commit rollback the file
+commit rollback the file push t
 ## Features
 
 * Minimal requirements to integrate it into Sponge, BungeeCord and Spigot
@@ -12,7 +12,7 @@ commit rollback the file
 * Thread-Safe
 * Usage of modern Java 8 features
 * UUID and skin querying
-* Skin changing
+* Skin changing the file in the file
 * Rotating multiple outgoing source IPs
 * Throws exceptions to let the user decide how to handle errors
 * Default in-memory cache
